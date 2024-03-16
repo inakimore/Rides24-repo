@@ -1,0 +1,139 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 11:00:57 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' has been recovered (tr. 11-11)
+
+[2024-03-02 11:00:57 #2 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 7908@DESKTOP-7BO60CG
+
+[2024-03-02 11:00:57 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 11:00:57 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 11:00:57 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 11:01:08 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 5740@DESKTOP-7BO60CG
+
+[2024-03-02 11:01:09 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 11:01:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 11:01:09 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 11:15:45 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 5536@DESKTOP-7BO60CG
+
+[2024-03-02 11:15:45 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 11:15:45 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 11:15:45 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 11:20:50 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' has been recovered (tr. 12-12)
+
+[2024-03-02 11:20:50 #2 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 2632@DESKTOP-7BO60CG
+
+[2024-03-02 11:20:50 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 11:20:50 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 11:20:50 #5 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 12:14:14 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 6580@DESKTOP-7BO60CG
+
+[2024-03-02 12:14:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 12:14:14 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 12:14:14 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 12:44:14 #1 store] 
+Database 'C:\Users\Dell\Desktop\Rides24\src\main\resources\rides.temp' is opened by 3196@DESKTOP-7BO60CG
+
+[2024-03-02 12:44:14 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 12:44:14 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 12:44:14 #4 type] 
+Type domain.Ride is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:54:17 #1 store] 
+Database 'C:\Users\inaki\Downloads\elira_aceptdeny_foca\Rides24\src\main\resources\rides.temp' is opened by 16520@Vivobook
+
+[2024-03-02 18:54:17 #2 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 18:54:17 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:54:17 #4 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:54:17 #5 type.registry] 
+New type domain.Request
+
+[2024-03-02 18:54:17 #6 type] 
+Type domain.Request is not enhanced.
+
+[2024-03-02 18:54:17 #7 type.registry] 
+New type domain.Passenger
+
+[2024-03-02 18:54:17 #8 type] 
+Type domain.Passenger is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 20:03:21 #1 store] 
+Database 'C:\Users\inaki\Downloads\elira_aceptdeny_foca\Rides24\src\main\resources\rides.temp' has been recovered (tr. 13-14)
+
+[2024-03-02 20:03:21 #2 store] 
+Database 'C:\Users\inaki\Downloads\elira_aceptdeny_foca\Rides24\src\main\resources\rides.temp' is opened by 1780@Vivobook
+
+[2024-03-02 20:03:21 #3 type] 
+Type domain.User is not enhanced.
+
+[2024-03-02 20:03:21 #4 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 20:03:21 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 20:03:21 #6 type] 
+Type domain.Request is not enhanced.
+
+[2024-03-02 20:03:21 #7 type] 
+Type domain.Passenger is not enhanced.
+
